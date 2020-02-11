@@ -1,0 +1,40 @@
+#contenedor{
+          margin: auto;
+          padding: auto;
+          }	
+#cabecera {
+          color:white;
+          background-color:grey;
+          padding:20px;
+          }
+#contenido {
+          background-color:#ddd;
+          color: black;
+          width: auto;
+          height: auto;
+          padding:40px;
+          
+       	}
+#menu {
+          background-color:green;
+          color: black;
+          float:left;
+          height:1000px;
+          padding:20px;
+          width:auto;
+        	}
+#pie 
+{
+  background-color:#bbb;
+          clear:both;
+          color:#900;
+          padding:10px;
+          text-align:center;
+}
+ul.ordenar1
+          {
+            align-items: left;
+            }          }
+img.cortar{
+  text-align: left;
+}
